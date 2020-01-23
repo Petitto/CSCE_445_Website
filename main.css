@@ -6,6 +6,17 @@ h1{
     font-size: 50px;
     left: 100px;
 }
-img.align-right{
-    margin-right: 7000px;
+
+header {
+	display: inline-block;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.smallImg {
+	max-width: 250px;
+	max-height: 250px;
 }
