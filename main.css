@@ -8,30 +8,57 @@ body{
 	color: white;
 }
 .large-text{
-	font-size: 15px;
+	font-size: 25;
 }
 .smallImg {
 	max-width: 420px;
 	max-height: 420px;
 }
 .middle-left{
-	width: 38%;
+	width: 30%;
 	position:fixed;
 	top: 15%;
 	left: 15%;
 	margin-top: 15px;
 }
 .middle-right{
-	width: 38%;
+	width: 30%;
 	font-size:20;
 	position:fixed;
 	top: 15%;
-	right:15%;
+	right:25%;
 	margin-top: 15px;
 }
-.large-square{
-	width:38%;
+.header-box{
+	width:30%;
+	position:fixed;
+	bottom:50%;
+	right:25%;
+}
+.header-box1{
+	width:30%;
+	position:fixed;
+	bottom:22%;
+	right:25%;
+}
+.mini-box{
+	width:30%;
+	font-size:20;
 	position: fixed;
 	bottom:30%;
-	right:15%;
+	right:25%;
+}
+.mini-box1{
+	width:30%;
+	font-size:20;
+	position:fixed;
+	bottom:30%;
+	right:12%;
+}
+.mini-box2{
+	width:30%;
+	font-size:20;
+	position:fixed;
+	bottom:15%;
+	right:25%;
 }
