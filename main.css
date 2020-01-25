@@ -7,9 +7,10 @@ body{
 	font-size: 30px;
 	color: white;
 }
-.color-adjustement{
-	color:rgb(0, 174, 255);
+.color-adjustment{
+	color:black;
 }
+
 .large-text{
 	font-size: 16;
 }
