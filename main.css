@@ -10,7 +10,6 @@ body{
 .color-adjustment{
 	color:black;
 }
-
 .large-text{
 	font-size: 16;
 }
@@ -38,7 +37,7 @@ body{
 	width:30%;
 	position:fixed;
 	top:10%;
-	right:20%;
+	right:25%;
 }
 
 .bottom-Header{
@@ -51,7 +50,7 @@ body{
 	width:30%;
 	position: fixed;
 	top:15%;
-	right:20%;
+	right:25%;
 }
 .mini-box1{
 	width:30%;
@@ -62,36 +61,36 @@ body{
 .mini-box2{
 	width: 30%;
 	position:fixed;
-	top: 35%;
-	right:20%;
+	top: 40%;
+	right:25%;
 }
 .mini-box3{
 	width:30%;
 	position:fixed;
-	top:35%;
+	top:40%;
 	right:0%;
 }
 .mini-box4{
 	width:30%;
 	position:fixed;
-	bottom:35%;
-	right:0%;
+	bottom:25%;
+	right:25%;
 }
 .mini-box5{
 	width:30%;
 	position:fixed;
-	bottom:35%;
-	right:20%;
+	bottom:25%;
+	right:0%;
 }
 .mini-box6{
 	width:30%;
 	position: fixed;
-	bottom:15%;
-	right:20%;
+	bottom:5%;
+	right:25%;
 }
 .mini-box7{
 	width:30%;
 	position:fixed;
-	bottom:15%;
+	bottom:5%;
 	right:0%;
 }
